@@ -47,9 +47,11 @@ The dashboard is designed to be **interactive, simple, and business-friendly**.
 - **SQL** (data cleaning & queries)  
 - **Excel** (pre-processing) 
 
-##📈 Key Insights
--148K+ restaurants onboarded.
--Average rating: 3.89/5.
--Top cuisines: North Indian, South Indian, Chinese, Pizza, Beverages.
--Top 10% customers drive ~725M in sales.
--Demand is almost equal for Veg vs Non-Veg.      
+## 📈 Key Insights  
+
+- **148K+ restaurants** onboarded  
+- Average rating: **3.89/5**  
+- **Top cuisines**: North Indian, South Indian, Chinese, Pizza, Beverages  
+- **Top 10% customers** drive ~725M in sales  
+- Demand is **almost equal** for Veg vs Non-Veg  
+    
