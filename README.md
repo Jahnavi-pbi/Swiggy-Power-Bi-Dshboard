@@ -53,5 +53,11 @@ The dashboard is designed to be **interactive, simple, and business-friendly**.
 - Average rating: **3.89/5**  
 - **Top cuisines**: North Indian, South Indian, Chinese, Pizza, Beverages  
 - **Top 10% customers** drive ~725M in sales  
-- Demand is **almost equal** for Veg vs Non-Veg  
-    
+- Demand is **almost equal** for Veg vs Non-Veg
+
+
+![image alt](https://github.com/Jahnavi-pbi/Swiggy-Power-Bi-Dshboard/blob/main/Swiggy%20dashboard%201.png)
+![image alt](https://github.com/Jahnavi-pbi/Swiggy-Power-Bi-Dshboard/blob/main/s%20d%202.png)
+![image alt](https://github.com/Jahnavi-pbi/Swiggy-Power-Bi-Dshboard/blob/main/s%20d%203.png)
+![image alt](https://github.com/Jahnavi-pbi/Swiggy-Power-Bi-Dshboard/blob/main/s%20d%204.png)
+
